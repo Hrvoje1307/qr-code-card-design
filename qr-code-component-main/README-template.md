@@ -50,4 +50,4 @@ Now I would like to practice more my HTML and CSS skills and I would like to mov
 
 ## Acknowledgments
 
-I made this alone but I learned alot from Jonas Schmedtmann
+I made this alone but I learned a lot from Jonas Schmedtmann
