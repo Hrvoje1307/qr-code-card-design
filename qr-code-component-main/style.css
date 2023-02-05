@@ -11,14 +11,13 @@ body {
   background-color: hsl(212, 45%, 89%);
   padding: 0 3.2rem;
   font-family: "Outfit", sans-serif;
-}
-
-.container {
-  margin: 0 auto;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .card {
-  margin-top: 12.8rem;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -26,7 +25,6 @@ body {
   max-width: 30rem;
   text-align: center;
   background-color: hsl(0, 0%, 100%);
-  margin-bottom: 12.8rem;
   border-radius: 12px;
   box-shadow: 0 0 10px 10px rgba(0, 0, 0, 0.1);
 }
@@ -36,8 +34,9 @@ body {
 }
 
 .heading {
-  font-size: 2.2rem;
+  font-size: 2.4rem;
   font-weight: 700;
+  color: hsl(218, 44%, 22%);
 }
 
 .article {
